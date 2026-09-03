@@ -1,6 +1,6 @@
 {
   "latestVersion": "2.0.2",
-  "buildVersion": 15,
+  "buildVersion": 17,
   "minimumSupportedVersion": "1.1.0",
   "forceUpdate": false,
   "message": "Nova versão disponível com melhorias de desempenho.",
